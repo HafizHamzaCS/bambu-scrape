@@ -52,6 +52,8 @@ def test_rows_are_drafts_with_parent_links_and_no_prices_or_stock() -> None:
     rows = wc.to_csv_rows([PRODUCT], OPTS)
     assert [r["Type"] for r in rows] == ["variable", "variation", "variation"]
     assert {r["Published"] for r in rows} == {"-1"}
+    # WooCommerce rejects variation rows with an empty catalog visibility
+    assert {r["Visibility in catalog"] for r in rows} == {"visible"}
     assert rows[1]["Parent"] == rows[0]["SKU"] == "BL-h2c"
     assert all(not r.get("Regular price") for r in rows)
     assert all("Stock" not in r for r in rows)

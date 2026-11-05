@@ -173,6 +173,8 @@ def to_csv_rows(products: list[dict[str, Any]], opts: ExportOptions) -> list[dic
                     "SKU": f"{opts.sku_prefix}{v['sku']}",
                     "Name": f"{p['title']} - {label}",
                     "Published": "-1",
+                    "Is featured?": "0",
+                    "Visibility in catalog": "visible",
                     "Tax status": "taxable",
                     "Regular price": _money(v.get("price_minor")) if opts.include_prices else "",
                     "Images": v.get("image_url") or "",
