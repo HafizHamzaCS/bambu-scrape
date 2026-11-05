@@ -16,6 +16,7 @@ import logging
 import re
 import sys
 import time
+import urllib.error
 import urllib.request
 from typing import Any, cast
 
@@ -54,7 +55,17 @@ DEFAULT_HEADERS = {
 # =====================================================================
 
 
-def fetch_url(url: str, delay_s: float = 1.0, max_retries: int = 3) -> str:
+def _retry_wait_s(error: Exception, attempt: int) -> float:
+    """Seconds to wait before retrying; honours Retry-After on HTTP 429/503."""
+    if isinstance(error, urllib.error.HTTPError) and error.code in (429, 503):
+        retry_after = error.headers.get("Retry-After") if error.headers else None
+        if retry_after and retry_after.isdigit():
+            return min(float(retry_after), 120.0)
+        return 30.0 * attempt
+    return 2.0 * attempt
+
+
+def fetch_url(url: str, delay_s: float = 1.0, max_retries: int = 5) -> str:
     """Fetch HTML content with rate limiting, GeoIP bypass, and retries.
 
     Args:
@@ -85,7 +96,7 @@ def fetch_url(url: str, delay_s: float = 1.0, max_retries: int = 3) -> str:
             last_error = e
             logger.warning("Attempt %d failed for %s: %s", attempt, url, e)
             if attempt < max_retries:
-                time.sleep(2.0 * attempt)
+                time.sleep(_retry_wait_s(e, attempt))
 
     raise RuntimeError(f"Failed to fetch {url} after {max_retries} attempts: {last_error}")
 
@@ -341,6 +352,7 @@ def scrape_category(
     category_key: str,
     limit: int | None = None,
     delay_s: float = 1.0,
+    errors: list[str] | None = None,
 ) -> list[dict[str, Any]]:
     """Scrape all products belonging to a specific category.
 
@@ -348,6 +360,7 @@ def scrape_category(
         category_key: 'printers' or 'filaments'.
         limit: Optional maximum number of products to scrape.
         delay_s: Politeness delay between requests.
+        errors: Optional list that receives one "handle: message" entry per failed product.
 
     Returns:
         List of detailed product dictionaries.
@@ -384,6 +397,8 @@ def scrape_category(
                 products.append(prod_detail)
         except Exception as e:
             logger.error("Error scraping product '%s': %s", seo_code, e)
+            if errors is not None:
+                errors.append(f"{seo_code}: {str(e)[:160]}")
 
     logger.info("Finished category '%s': %d products extracted", category_key, len(products))
     return products

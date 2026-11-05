@@ -21,7 +21,9 @@ def client(monkeypatch: pytest.MonkeyPatch, tmp_path: Path) -> TestClient:
     monkeypatch.setattr(
         service.scraper,
         "scrape_category",
-        lambda cat, limit=None, delay_s=1.0: [{"handle": f"{cat}-1", "variants": [{}, {}]}],
+        lambda cat, limit=None, delay_s=1.0, errors=None: [
+            {"handle": f"{cat}-1", "variants": [{}, {}]}
+        ],
     )
     return TestClient(app)
 
@@ -63,3 +65,61 @@ def test_conflict_when_run_active(client: TestClient) -> None:
     resp = client.post("/scrape", json={"category": "printers"}, headers=KEY)
     assert resp.status_code == 409
     assert resp.json()["meta"]["active_run_id"] == run["run_id"]
+
+
+def test_partial_run_reports_errors_and_keeps_previous_record(
+    client: TestClient, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    assert client.post("/scrape", json={"category": "printers"}, headers=KEY).status_code == 202
+
+    def flaky(cat: str, limit: int | None = None, delay_s: float = 1.0, errors=None):  # type: ignore[no-untyped-def]
+        if errors is not None:
+            errors.append("old-one: HTTP Error 429: Too Many Requests")
+        return [{"handle": "new-one", "variants": [{}]}]
+
+    monkeypatch.setattr(service.scraper, "scrape_category", flaky)
+    service._runs.clear()
+    resp = client.post("/scrape", json={"category": "printers"}, headers=KEY)
+    run = client.get(f"/runs/{resp.json()['data']['run_id']}", headers=KEY).json()["data"]
+    assert run["status"] == "partial"
+    assert run["error_count"] == 1
+    assert "429" in run["error_summary"]
+    # "old-one" was never in the earlier catalog (it held "printers-1"), so only the new one remains
+    handles = [
+        p["handle"] for p in client.get("/catalog?category=printers", headers=KEY).json()["data"]
+    ]
+    assert handles == ["new-one"]
+
+
+def test_previous_record_kept_when_product_fails(
+    client: TestClient, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    assert client.post("/scrape", json={"category": "printers"}, headers=KEY).status_code == 202
+
+    def flaky(cat: str, limit: int | None = None, delay_s: float = 1.0, errors=None):  # type: ignore[no-untyped-def]
+        if errors is not None:
+            errors.append("printers-1: HTTP Error 429: Too Many Requests")
+        return [{"handle": "other", "variants": []}]
+
+    monkeypatch.setattr(service.scraper, "scrape_category", flaky)
+    service._runs.clear()
+    client.post("/scrape", json={"category": "printers"}, headers=KEY)
+    handles = sorted(
+        p["handle"] for p in client.get("/catalog?category=printers", headers=KEY).json()["data"]
+    )
+    assert handles == ["other", "printers-1"]
+
+
+def test_retry_wait_honours_retry_after() -> None:
+    import urllib.error
+    from email.message import Message
+
+    headers = Message()
+    headers["Retry-After"] = "45"
+    err = urllib.error.HTTPError("u", 429, "Too Many", headers, None)
+    assert service.scraper._retry_wait_s(err, 1) == 45.0
+    assert (
+        service.scraper._retry_wait_s(urllib.error.HTTPError("u", 429, "x", Message(), None), 2)
+        == 60.0
+    )
+    assert service.scraper._retry_wait_s(RuntimeError("x"), 3) == 6.0

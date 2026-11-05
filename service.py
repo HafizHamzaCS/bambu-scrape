@@ -56,37 +56,56 @@ def start_run(category: str, limit: int | None) -> tuple[dict[str, Any] | None, 
         return run, None
 
 
+def _previous_products(cat: str) -> list[dict[str, Any]]:
+    path = _data_dir() / "catalog" / f"{cat}.json"
+    if path.is_file():
+        return list(json.loads(path.read_text(encoding="utf-8"))["products"])
+    return []
+
+
 def execute_run(run_id: str) -> None:
-    """Blocking scrape; meant to run in a worker thread."""
+    """Blocking scrape; meant to run in a worker thread.
+
+    Products that fail to scrape (e.g. HTTP 429) are listed as errors and their previous
+    record, if any, is kept so a partial run never shrinks the catalog.
+    """
     run = _runs[run_id]
     categories = list(CATEGORIES) if run["category"] == "all" else [run["category"]]
+    all_errors: list[str] = []
     try:
         for cat in categories:
+            errors: list[str] = []
             products = scraper.scrape_category(
-                cat, limit=run["limit"], delay_s=settings.RATE_LIMIT_INTERVAL_S
+                cat, limit=run["limit"], delay_s=settings.RATE_LIMIT_INTERVAL_S, errors=errors
             )
+            all_errors += [f"[{cat}] {e}" for e in errors]
+            run["products_seen"] += len(products)
+            run["variants_seen"] += sum(len(p.get("variants") or []) for p in products)
+            if not products:
+                all_errors.append(f"[{cat}] no products extracted; catalog file not updated")
+                continue
+            failed = {e.split(":", 1)[0] for e in errors}
+            fresh = {p["handle"] for p in products}
+            kept = [p for p in _previous_products(cat) if p["handle"] in failed - fresh]
             payload = {
                 "category": cat,
                 "scraped_at": _now(),
                 "run_id": run_id,
-                "products": products,
+                "products": products + kept,
             }
-            if products:
-                (_data_dir() / "catalog" / f"{cat}.json").write_text(
-                    json.dumps(payload), encoding="utf-8"
-                )
-            else:
-                run["error_count"] += 1
-                run["error_summary"] = (
-                    f"No products extracted for '{cat}'; catalog file not updated"
-                )
-            run["products_seen"] += len(products)
-            run["variants_seen"] += sum(len(p.get("variants") or []) for p in products)
-        run["status"] = "failed" if run["error_count"] == len(categories) else "completed"
+            (_data_dir() / "catalog" / f"{cat}.json").write_text(
+                json.dumps(payload), encoding="utf-8"
+            )
+        run["error_count"] = len(all_errors)
+        run["error_summary"] = "; ".join(all_errors[:10]) or None
+        if not all_errors:
+            run["status"] = "completed"
+        else:
+            run["status"] = "partial" if run["products_seen"] else "failed"
     except Exception as exc:
         logger.exception("Scrape run %s failed", run_id)
         run["status"] = "failed"
-        run["error_count"] += 1
+        run["error_count"] = len(all_errors) + 1
         run["error_summary"] = str(exc)[:500]
     finally:
         run["finished_at"] = _now()
