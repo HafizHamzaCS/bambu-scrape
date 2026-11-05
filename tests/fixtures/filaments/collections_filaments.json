@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "7711728074971",
+    "seoCode": "pla-basic-filament",
+    "type": 1,
+    "name": "PLA Basic",
+    "lowerPrice": 9.0047,
+    "price": null,
+    "fromFlag": false,
+    "currency": "EUR",
+    "mediaFiles": [
+      "https://store.bblcdn.eu/s8/default/0e0f2442945b482eac4ecb20182faf6b/pla_baisc_white.jpg",
+      "https://store.bblcdn.eu/s8/default/62d2baf055274483acf250a40df7acc8/PLABasic.jpg",
+      "https://store.bblcdn.eu/s8/default/4e1dfc55ed01421c96bd3d466d3dc05a/In_the_Box_3.jpg",
+      "https://store.bblcdn.eu/s8/default/e1860649e4074090a480646e0c58a7bb/Beige.jpg",
+      "https://store.bblcdn.eu/s8/default/b4f66db9ca704f19b120ccccd0f41a85/plalightgray.jpg",
+      "https://store.bblcdn.eu/s8/default/9e551c519d954245b5ac7f779f99441d/Yellow.jpg",
+      "https://store.bblcdn.eu/s8/default/1d4c7a172193440882b37ac54252563a/SunflowerYellow.jpg",
+      "https://store.bblcdn.eu/s8/default/2bf6b62353f04971b9d272c890f10840/Gold.jpg",
+      "https://store.bblcdn.eu/s8/default/4793a9395b764dd598fbfa13544ddeb9/PumpkinOrange.jpg",
+      "https://store.bblcdn.eu/s8/default/de761aa5234d4fd8b05176edcaad3ee4/Orange.jpg",
+      "https://store.bblcdn.eu/s8/default/f142f0aca7d54dcb9da3d30d7beb2185/BrightGreen.jpg",
+      "https://store.bblcdn.eu/s8/default/fd09b20d185a4f8896fe72aafd07451b/Bambu_Green.jpg",
+      "https://store.bblcdn.eu/s8/default/386da0a9267b40a997ace0bacae58839/2df013fd41a034aa180c1c5f641ef9c4.png",
+      "https://store.bblcdn.eu/s8/default/acf1cd31f7ad49a7b444b78d18508200/Pink.jpg",
+      "https://store.bblcdn.eu/s8/default/085592ec366e4a15b19e19fd5a1dd154/HotPink.jpg",
+      "https://store.bblcdn.eu/s8/default/2bad4609e2544c669ae463f360b9b1ea/Magenta.jpg",
+      "https://store.bblcdn.eu/s8/default/3b9beb37cd6d4a83bdfe61c28175c385/Red.jpg",
+      "https://store.bblcdn.eu/s8/default/067bad6d241a4bc088b6acb1c87d4edb/MaroonRed.jpg",
+      "https://store.bblcdn.eu/s8/default/7297bc043a904b6b9e72f7eaed6215ec/PLAPurple.jpg",
+      "https://store.bblcdn.eu/s8/default/49d16b8778a54cdfb1ece6027487f4b0/IndigoPurple.jpg",
+      "https://store.bblcdn.eu/s8/default/92f6058fa6114720b4c14864a11fe8d8/Turquoise.jpg",
+      "https://store.bblcdn.eu/s8/default/11446178685f4cce88b141b4609121da/CMYK-Cyan-1_e332b67e-db4e-4f11-b05e-196bcf7dcad7.png",
+      "https://store.bblcdn.eu/s8/default/9c64998b2097410abc07497a02198b36/CobaltBlue.jpg",
+      "https://store.bblcdn.eu/s8/default/23003aff1408442baa3476e1a1344e56/PLABasicBlue.jpg",
+      "https://store.bblcdn.eu/s8/default/24aa6a9d2aa8494b9d59eeb2fe49b7b5/PLA-Basic_Brown.png",
+      "https://store.bblcdn.eu/s8/default/8a0656cc198c466a9c9f8e747f59a96a/CocoaBrown.jpg",
+      "https://store.bblcdn.eu/s8/default/a410256b4aa944fc89efde75c7e3b8fc/Bronze.jpg",
+      "https://store.bblcdn.eu/s8/default/bc18c49304864e3d8ffc75db5ab099b7/PLA-Basic_Gray.png",
+      "https://store.bblcdn.eu/s8/default/42a0b1bbd3004a6ab6df82dfffbdef3e/Sliver.jpg",
+      "https://store.bblcdn.eu/s8/default/10342fcd8f9845739098817b95f1750f/PLA-Basic_Blue-Gray.png",
+      "https://store.bblcdn.eu/s8/default/cd692f8d8f94446bbbe7ed7cbf04622b/pla_basic_dark_gray.jpg",
+      "https://store.bblcdn.eu/s8/default/19633c57e2d446428e4c8401619c6ffb/PLA-Basic_Black_29c482c8-ccd6-4559-bf2b-058f7d0d798f.png",
+      "https://store.bblcdn.eu/s8/default/17f49f5f960e4188917fe693c4639e90/H2DS.jpg"
+    ],
+    "eta": null,
+    "outOfStockMsg": "",
+    "discountLabel": null,
+    "colorList": [
+      {
+        "propertyValueId": "593611223076515843",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/b210e083969f441d9f765d73775c33ee/Rectangle_1279.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/0e0f2442945b482eac4ecb20182faf6b/pla_baisc_white.jpg",
+          "https://store.bblcdn.eu/s8/default/0e0f2442945b482eac4ecb20182faf6b/pla_baisc_white.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 1,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515844",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/cae88d517bac44b89fd1e895342c10b8/fa231273753d477b9d99afa19761f820.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/e1860649e4074090a480646e0c58a7bb/Beige.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 2,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515845",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/a9303ce2d77d446ba232266663653ffb/b7c9db2942374e2793d9865461076ac4.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/b4f66db9ca704f19b120ccccd0f41a85/plalightgray.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 3,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515846",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/aaff6c730b9f4a6f8b872a8ab5dbceef/3b0e7a2600f44088b06cb185a3f87e04.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/9e551c519d954245b5ac7f779f99441d/Yellow.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 4,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515847",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/570aa349cd6c4a3894325a8eeb3537eb/f84eee46ecb848e69c2e6a5c197a9958.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/1d4c7a172193440882b37ac54252563a/SunflowerYellow.jpg",
+          "https://store.bblcdn.eu/s8/default/1d4c7a172193440882b37ac54252563a/SunflowerYellow.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 5,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515848",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/3f8a303a66f2473f97dce2b8e6a32ae4/969f0c8921214ece8dbced65341fcbce.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/2bf6b62353f04971b9d272c890f10840/Gold.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 6,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515849",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/c2df3a9ff9c246468f0e23237ee3389c/ff733c26d9be457fb44ee270f2720827.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/4793a9395b764dd598fbfa13544ddeb9/PumpkinOrange.jpg",
+          "https://store.bblcdn.eu/s8/default/4793a9395b764dd598fbfa13544ddeb9/PumpkinOrange.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 7,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515850",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/933af893081d4049b671b88bb73dbe5d/3b7d85f463734924842171fab890a603.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/de761aa5234d4fd8b05176edcaad3ee4/Orange.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 8,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515851",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/752c149f51c4444096a9d1ec68d98787/5578164bff51480a9c550ef390348ec1.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/f142f0aca7d54dcb9da3d30d7beb2185/BrightGreen.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 9,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515852",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/2be1d6005e8b47309787ce5ca8d6b1b1/7044786b85d44df9bbe872c6e5d87518.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/fd09b20d185a4f8896fe72aafd07451b/Bambu_Green.jpg",
+          "https://store.bblcdn.eu/s8/default/fd09b20d185a4f8896fe72aafd07451b/Bambu_Green.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 10,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515853",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/01f4a69705be47d28ebb9e64138511c1/21f4f3191dfd4fd58f68fdb8b2be4ec4.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/386da0a9267b40a997ace0bacae58839/2df013fd41a034aa180c1c5f641ef9c4.png",
+          "https://store.bblcdn.eu/s8/default/386da0a9267b40a997ace0bacae58839/2df013fd41a034aa180c1c5f641ef9c4.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 11,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515854",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/6686f81c9d744c7dbb5c2656613cfa58/16d81c82e3ac470c9abccfdda3e98ded.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/acf1cd31f7ad49a7b444b78d18508200/Pink.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 12,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515855",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/f312337e9b054b3dbc562c4ce84bd9a3/ed844344991348f79a91dfe9aeba362e.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/085592ec366e4a15b19e19fd5a1dd154/HotPink.jpg",
+          "https://store.bblcdn.eu/s8/default/085592ec366e4a15b19e19fd5a1dd154/HotPink.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 13,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515856",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/4ad6ec1b6d5d4feead844261b2ca659a/e09bc62c304443d8b33302b42f8ef2ca.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/2bad4609e2544c669ae463f360b9b1ea/Magenta.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 14,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515857",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/ca98847eca2d4d3b9bedcbf1567f9069/377d91b1263f40968ca1973b0d2839e4.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/3b9beb37cd6d4a83bdfe61c28175c385/Red.jpg",
+          "https://store.bblcdn.eu/s8/default/3b9beb37cd6d4a83bdfe61c28175c385/Red.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 15,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515858",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/49e16540bef940e49c1fbf1e07c59f7b/6ddd230906194a7fa5403e2cc1d7ae77.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/067bad6d241a4bc088b6acb1c87d4edb/MaroonRed.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 16,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515859",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/588956a2685f49fca7a83d05bbc55fde/8324030333a34c54b8472e5682d19f3f.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/7297bc043a904b6b9e72f7eaed6215ec/PLAPurple.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 17,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515860",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/70a2bd250ad54d568038e40e41c6c058/d65aebf923b840af881f23286fb7d9b3.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/49d16b8778a54cdfb1ece6027487f4b0/IndigoPurple.jpg",
+          "https://store.bblcdn.eu/s8/default/49d16b8778a54cdfb1ece6027487f4b0/IndigoPurple.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 18,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515861",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/37c33cefed344e838b6061da9cb2931e/9f0327d603c345ac99fcb795cc783dff.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/92f6058fa6114720b4c14864a11fe8d8/Turquoise.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 19,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515862",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/f3c29d42ffd84019bd9bd5dd010c20ed/d665a3540d334035abc278b0b80e4898.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/11446178685f4cce88b141b4609121da/CMYK-Cyan-1_e332b67e-db4e-4f11-b05e-196bcf7dcad7.png",
+          "https://store.bblcdn.eu/s8/default/11446178685f4cce88b141b4609121da/CMYK-Cyan-1_e332b67e-db4e-4f11-b05e-196bcf7dcad7.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 20,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515863",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/2d8f3b0e1c5d49d89948daabdf195bb1/abd43099726847d6b189bec773ef1833.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/9c64998b2097410abc07497a02198b36/CobaltBlue.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 21,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515864",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/d992a2843093493eb39af6cb476fbe1d/0cbb7037758240b4873f9a90ab4dbe10.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/23003aff1408442baa3476e1a1344e56/PLABasicBlue.jpg",
+          "https://store.bblcdn.eu/s8/default/23003aff1408442baa3476e1a1344e56/PLABasicBlue.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 22,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515865",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/7a90b883708248e3be71e3055a05d18b/ae017fb32657451aaa0eecec9ad1b748.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/24aa6a9d2aa8494b9d59eeb2fe49b7b5/PLA-Basic_Brown.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 23,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515866",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/b723f31901004aeb8d94630217720cb5/91d13e7d3dd54a89948200e82353998f.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/8a0656cc198c466a9c9f8e747f59a96a/CocoaBrown.jpg",
+          "https://store.bblcdn.eu/s8/default/8a0656cc198c466a9c9f8e747f59a96a/CocoaBrown.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 24,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515867",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/0bafa7cc770b4dc08baf9c2d5ee89f60/8b75222ce246480184025993a40b948b.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/a410256b4aa944fc89efde75c7e3b8fc/Bronze.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 25,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515868",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/b8bb9d54dbfc4d4da37326cc026315ef/d870efeaced648c6a3f390db1f55f725.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/bc18c49304864e3d8ffc75db5ab099b7/PLA-Basic_Gray.png",
+          "https://store.bblcdn.eu/s8/default/bc18c49304864e3d8ffc75db5ab099b7/PLA-Basic_Gray.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 26,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515869",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/651ec57a4b894ac0abae064c8e3ff73a/8b789e9f61b14b54a248f813ea523191.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/42a0b1bbd3004a6ab6df82dfffbdef3e/Sliver.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 27,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515870",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/adb9eb251460438498b46618a1784f0b/4e3637d99a73483bab1ce84fd7628a36.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/10342fcd8f9845739098817b95f1750f/PLA-Basic_Blue-Gray.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 28,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515871",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/ad0d5d8c16b246f58fde8a3866ac9fa7/03aedbaaff8943f892b58438f98cac89.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/cd692f8d8f94446bbbe7ed7cbf04622b/pla_basic_dark_gray.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 29,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593611223076515872",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/3e8da2bfb48c44f5a65bf3f8f723f6ba/352e8e214fb4462ba7e6b1381c32fe9f.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/19633c57e2d446428e4c8401619c6ffb/PLA-Basic_Black_29c482c8-ccd6-4559-bf2b-058f7d0d798f.png",
+          "https://store.bblcdn.eu/s8/default/19633c57e2d446428e4c8401619c6ffb/PLA-Basic_Black_29c482c8-ccd6-4559-bf2b-058f7d0d798f.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 30,
+        "discountLabel": null,
+        "discountSkuId": null
+      }
+    ],
+    "highlightProductSkuId": null,
+    "preSaleTag": "",
+    "flashSaleTag": "",
+    "fullDiscountName": "after bulk sale",
+    "fullDiscountTag": "Bulk Sale",
+    "saleTime": null,
+    "highlightText": null,
+    "isNew": false,
+    "earnMultiple": null,
+    "requiresNotify": false,
+    "scheduledSale": false,
+    "hasScheduledSale": false,
+    "priceExplanation": null,
+    "lowerPriceSkuId": "49636014031196",
+    "isFilament": true,
+    "imageLabels": null
+  },
+  {
+    "id": "7735292035291",
+    "seoCode": "pla-matte",
+    "type": 1,
+    "name": "PLA Matte",
+    "lowerPrice": 9.0047,
+    "price": null,
+    "fromFlag": false,
+    "currency": "EUR",
+    "mediaFiles": [
+      "https://store.bblcdn.eu/s8/default/8221709b8311467cb756b4325da9c5a2/PLA_Matte_white.jpg",
+      "https://store.bblcdn.eu/s8/default/70efe73140054e4aae759d13f681d964/PLAMatte.jpg",
+      "https://store.bblcdn.eu/s8/default/4e1dfc55ed01421c96bd3d466d3dc05a/In_the_Box_3.jpg",
+      "https://store.bblcdn.eu/s8/default/af6a90b958ac4ad980f3c32bab4dcfd5/7_890c24b1-12ea-47e1-908a-c8c8afb2b48c.jpg",
+      "https://store.bblcdn.eu/s8/default/5d308d9e41084f1b9d187805082f484a/Matte-Lemon-Yellow.png",
+      "https://store.bblcdn.eu/s8/default/4be28c77bb1a4a9fa49a74786d8b80ba/Matte-Mandarin-Orange.png",
+      "https://store.bblcdn.eu/s8/default/f2c77bec37594472b2d2b65466b92e22/Matte-Sakura-Pink.png",
+      "https://store.bblcdn.eu/s8/default/32dbf332ec9b47999d9687ecff052974/Matte-Lilac-purple.png",
+      "https://store.bblcdn.eu/s8/default/91fac5c9801748f1b037538efb32e92c/6_f72c2422-d7b7-4097-94a8-5d03ca276299.jpg",
+      "https://store.bblcdn.eu/s8/default/fed38804b21d463eb250aeb152a28ff5/Matte-Scarlet-Red.png",
+      "https://store.bblcdn.eu/s8/default/e6b3a23fbb694a2a9801a4b2e41504a0/Matte-Dark-Red.png",
+      "https://store.bblcdn.eu/s8/default/56ee6a4ff72c4d1ea272b154c6a2b28c/2_29663f78-0df7-4382-b6e7-01fc2bacf724.jpg",
+      "https://store.bblcdn.eu/s8/default/222898ebcf7a42cfa9792f025b2ca102/Matte_Grass_Green.png",
+      "https://store.bblcdn.eu/s8/default/7d31e4c8ff0e49ac85cfa21d7e3bf3b3/Matte-Dark-Green.png",
+      "https://store.bblcdn.eu/s8/default/9df77f51cd8b4d9999a22d07823c4e1e/Matte-Ice-Blue.png",
+      "https://store.bblcdn.eu/s8/default/2e6a1efc7acb48379d11d44b8a8b2525/4_98e0178d-1490-4ba4-81fb-a696a6a5714a.jpg",
+      "https://store.bblcdn.eu/s8/default/07d4c24b8e6f41c6be3bc35d2275ef2c/Matte-Marine-Blue.png",
+      "https://store.bblcdn.eu/s8/default/744adb541f2740e9a16ca9263b8cea46/Matte-Dark-Blue.png",
+      "https://store.bblcdn.eu/s8/default/06f67edf60a341f1a2fbf3276ca2cc86/Matte-Latte-Brown.png",
+      "https://store.bblcdn.eu/s8/default/3c362bd1d704460496485d430315d41c/Matte_Desert_Tan.png",
+      "https://store.bblcdn.eu/s8/default/1e314f91d87b45d28621087ba57ca22b/8.jpg",
+      "https://store.bblcdn.eu/s8/default/010f95a01ce7416c80f25adbeca728c0/5_3f98d7f9-1567-41c1-93eb-af106f8c77a0.jpg",
+      "https://store.bblcdn.eu/s8/default/85c776d7a6154e4ca28979b266ed3621/Matte-Dark-Brown.png",
+      "https://store.bblcdn.eu/s8/default/bfaca04755004d64be587e2de5c8f97b/3_aa1c9150-6090-4d99-80eb-94e08e1f0838.jpg",
+      "https://store.bblcdn.eu/s8/default/7cab8bed5a5c4cd3b8fd434274b82093/Matte-Ash-Grey.png",
+      "https://store.bblcdn.eu/s8/default/e5bc5b447e304021a85fc07ff9016999/1_ea5b7083-7377-4995-bef2-6c066be034b2.jpg",
+      "https://store.bblcdn.eu/s8/default/8794ff9de5904712a56d3b37f481d34f/PLA-Matte_Charcoal.png"
+    ],
+    "eta": null,
+    "outOfStockMsg": "",
+    "discountLabel": null,
+    "colorList": [
+      {
+        "propertyValueId": "593612471288803331",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/13f15616297b468a9437ad1f7f3ec3fe/c8693a709e0442f384bad600d03fe0c3.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/8221709b8311467cb756b4325da9c5a2/PLA_Matte_white.jpg",
+          "https://store.bblcdn.eu/s8/default/8221709b8311467cb756b4325da9c5a2/PLA_Matte_white.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 1,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803348",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/fe1aeb8b3e2d49679beb1843cf87d048/Rectangle_4535.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/af6a90b958ac4ad980f3c32bab4dcfd5/7_890c24b1-12ea-47e1-908a-c8c8afb2b48c.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 2,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803335",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/b9a35f57b62940239231925123ea510f/147b2c8c833e4625a552584ce4ac94e2.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/5d308d9e41084f1b9d187805082f484a/Matte-Lemon-Yellow.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 3,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803336",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/c0ae19a4dde1487792bc8faf27a698d4/50858ad786c3414daaacb1f29eead215.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/4be28c77bb1a4a9fa49a74786d8b80ba/Matte-Mandarin-Orange.png",
+          "https://store.bblcdn.eu/s8/default/4be28c77bb1a4a9fa49a74786d8b80ba/Matte-Mandarin-Orange.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 4,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803337",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/9bab85655c1445308fbcb56b92b21e5e/a54f8229fa6e4c2eb714c34972fa6a82.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/f2c77bec37594472b2d2b65466b92e22/Matte-Sakura-Pink.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 5,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803341",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/3766ff856c9f46da87f998ebb643e5d7/47be9dad231d4e7c9d84086cd677e8dd.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/32dbf332ec9b47999d9687ecff052974/Matte-Lilac-purple.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 6,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803349",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/01c4128b7a004c56a71b81d433b08292/Rectangle_4537.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/91fac5c9801748f1b037538efb32e92c/6_f72c2422-d7b7-4097-94a8-5d03ca276299.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 7,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803342",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/8e0c8191b01441069edefe00fc405e59/e97d6f747715417d8c2d5c0aeb2554f0.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/fed38804b21d463eb250aeb152a28ff5/Matte-Scarlet-Red.png",
+          "https://store.bblcdn.eu/s8/default/fed38804b21d463eb250aeb152a28ff5/Matte-Scarlet-Red.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 8,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803343",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/dfdf2e6ed6324710b3fcd01b58827a60/16a6cddd38c5427fbe0c043acf4fdec4.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/e6b3a23fbb694a2a9801a4b2e41504a0/Matte-Dark-Red.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 9,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803351",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/3b3b0d30e490435c945fb283606ad774/Rectangle_4539.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/56ee6a4ff72c4d1ea272b154c6a2b28c/2_29663f78-0df7-4382-b6e7-01fc2bacf724.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 10,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803338",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/4b4ed908276a4420b6eda1a6efb5247a/f375a162834a4dd6ad40b3d3cd2bd23b.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/222898ebcf7a42cfa9792f025b2ca102/Matte_Grass_Green.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 11,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803345",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/5bccf7ad0e604ea691343a0bf0cc2dee/cf87d8d749a64146abd1f02c4a9a79ad.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/7d31e4c8ff0e49ac85cfa21d7e3bf3b3/Matte-Dark-Green.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 12,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803339",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/7b34b82fdf2f4abdbc25bf4f0f99fc0a/c07627cfd70f4ccfa787d4d12dad6d4b.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/9df77f51cd8b4d9999a22d07823c4e1e/Matte-Ice-Blue.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 13,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803350",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/20daf96cbd434d05b910847f7663c82c/Rectangle_4540.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/2e6a1efc7acb48379d11d44b8a8b2525/4_98e0178d-1490-4ba4-81fb-a696a6a5714a.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 14,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803340",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/c948001284044939b0e8565b687537a8/c3f24581020141108a78632680271e09.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/07d4c24b8e6f41c6be3bc35d2275ef2c/Matte-Marine-Blue.png",
+          "https://store.bblcdn.eu/s8/default/07d4c24b8e6f41c6be3bc35d2275ef2c/Matte-Marine-Blue.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 15,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803346",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/1ac27cb3f8584843b25a64cee769437f/353e1dc2aced4c808db0c85d394bbee6.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/744adb541f2740e9a16ca9263b8cea46/Matte-Dark-Blue.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 16,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803334",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/2ab2e16d82ac493f9bab6ec350a57dd9/d05a32c4b098422db92848e2b4d9c90e.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/3c362bd1d704460496485d430315d41c/Matte_Desert_Tan.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 17,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803332",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/5fe8df3185354f88badf20e5067437fb/80e94033ac314bb58c08c48a93156c8b.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/06f67edf60a341f1a2fbf3276ca2cc86/Matte-Latte-Brown.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 18,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803353",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/855926931a7f4e3fbcf7d7bc003a64c1/Rectangle_4541.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/1e314f91d87b45d28621087ba57ca22b/8.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 19,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803354",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/e32d2b8704b74e1b9e0e1529496eb3d2/Rectangle_4542.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/010f95a01ce7416c80f25adbeca728c0/5_3f98d7f9-1567-41c1-93eb-af106f8c77a0.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 20,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803344",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/9f6adf23212a4ef694f90e9afe9820e5/926ff77d477d4f6c9fcb8c76fdefa7b2.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/85c776d7a6154e4ca28979b266ed3621/Matte-Dark-Brown.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 21,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803352",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/c242d340094d4275baae53041edb0ed3/Rectangle_4536.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/bfaca04755004d64be587e2de5c8f97b/3_aa1c9150-6090-4d99-80eb-94e08e1f0838.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 22,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803333",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/d18055ca338e4c35a51b48351dac19a2/bac67500773d4a7fbd285fbfc2aaa9a7.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/7cab8bed5a5c4cd3b8fd434274b82093/Matte-Ash-Grey.png",
+          "https://store.bblcdn.eu/s8/default/7cab8bed5a5c4cd3b8fd434274b82093/Matte-Ash-Grey.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 23,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803355",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/d2a8851055cb4ba4b53f022a6eddf451/Rectangle_4543.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/e5bc5b447e304021a85fc07ff9016999/1_ea5b7083-7377-4995-bef2-6c066be034b2.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 24,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593612471288803347",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/c0dc18dc3dc7497986cae565172fb258/9873c26227394682ab9270a8e0868f0f.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/8794ff9de5904712a56d3b37f481d34f/PLA-Matte_Charcoal.png",
+          "https://store.bblcdn.eu/s8/default/8794ff9de5904712a56d3b37f481d34f/PLA-Matte_Charcoal.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 25,
+        "discountLabel": null,
+        "discountSkuId": null
+      }
+    ],
+    "highlightProductSkuId": null,
+    "preSaleTag": "",
+    "flashSaleTag": "",
+    "fullDiscountName": "after bulk sale",
+    "fullDiscountTag": "Bulk Sale",
+    "saleTime": null,
+    "highlightText": null,
+    "isNew": false,
+    "earnMultiple": null,
+    "requiresNotify": false,
+    "scheduledSale": false,
+    "hasScheduledSale": false,
+    "priceExplanation": null,
+    "lowerPriceSkuId": "48612736401756",
+    "isFilament": true,
+    "imageLabels": null
+  },
+  {
+    "id": "703100873978662912",
+    "seoCode": "petg-basic",
+    "type": 1,
+    "name": "PETG Basic",
+    "lowerPrice": 8.4747,
+    "price": null,
+    "fromFlag": false,
+    "currency": "EUR",
+    "mediaFiles": [
+      "https://store.bblcdn.eu/s8/default/2aec282c1ec545f880a7aa75fbec8f95/PETG_Basic_orange.jpg",
+      "https://store.bblcdn.eu/s8/default/be1eff1e06b043e0b90cb56feb27327d/1.png",
+      "https://store.bblcdn.eu/s8/default/4e1dfc55ed01421c96bd3d466d3dc05a/In_the_Box_3.jpg",
+      "https://store.bblcdn.eu/s8/default/ff07f59007e94090af967488b25de3d3/RED.png",
+      "https://store.bblcdn.eu/s8/default/7fe9bf3f4d12489386370193fb02850c/YELLOW.png",
+      "https://store.bblcdn.eu/s8/default/ccc39455d1fd4669ba583c3da3eff47b/Green_1.jpg",
+      "https://store.bblcdn.eu/s8/default/a3f70e8ec1ba4d90808e92edcf28f17d/Navy_Blue_1.jpg",
+      "https://store.bblcdn.eu/s8/default/9cad6210e4184cf28c1006b4a612c87f/REFLEX_BLUE.png",
+      "https://store.bblcdn.eu/s8/default/523e094a800f4064bf5d93daa1d05a08/WHITE.png",
+      "https://store.bblcdn.eu/s8/default/86f7a87158834e79813b43badc1b26af/Dark_Beige_1.jpg",
+      "https://store.bblcdn.eu/s8/default/c5cd4b9fed76448d8611f956a92b0ea7/Black.png",
+      "https://store.bblcdn.eu/s8/default/fcacc5422e634ae7975f57b970504c36/BARK_BROWN.png",
+      "https://store.bblcdn.eu/s8/default/05d2eea2bf4d426faa7614da8069e354/GRAY.png",
+      "https://store.bblcdn.eu/s8/default/4825e2d206bd4e39bf7ef7c13bbdf20e/Misty_Blue_1.jpg",
+      "https://store.bblcdn.eu/s8/default/d8a399750c884985b22f700e99623fa1/Pine_Green_1.jpg"
+    ],
+    "eta": null,
+    "outOfStockMsg": "",
+    "discountLabel": null,
+    "colorList": [
+      {
+        "propertyValueId": "738173299117862913",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/95a645e64f4041fc97ed524e7dc2912c/Orange.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/2aec282c1ec545f880a7aa75fbec8f95/PETG_Basic_orange.jpg",
+          "https://store.bblcdn.eu/s8/default/2aec282c1ec545f880a7aa75fbec8f95/PETG_Basic_orange.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 1,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "703100873995440131",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/69923db36ddd4dfa9009c5a3c040f191/Rectangle_4612.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/ff07f59007e94090af967488b25de3d3/RED.png",
+          "https://store.bblcdn.eu/s8/default/ff07f59007e94090af967488b25de3d3/RED.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 2,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "703100873995440132",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/0872badbedab4d6d917f5f45eba78e18/Rectangle_4613.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/7fe9bf3f4d12489386370193fb02850c/YELLOW.png",
+          "https://store.bblcdn.eu/s8/default/7fe9bf3f4d12489386370193fb02850c/YELLOW.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 3,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "738173299117862914",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/515a0c916d3945c789deada6486ec2da/Green.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/ccc39455d1fd4669ba583c3da3eff47b/Green_1.jpg",
+          "https://store.bblcdn.eu/s8/default/ccc39455d1fd4669ba583c3da3eff47b/Green_1.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 4,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "738173299117862915",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/3aece5ae9a8241ef873f995c922862da/Navy_Blue.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/a3f70e8ec1ba4d90808e92edcf28f17d/Navy_Blue_1.jpg",
+          "https://store.bblcdn.eu/s8/default/a3f70e8ec1ba4d90808e92edcf28f17d/Navy_Blue_1.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 5,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "703100873995440133",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/20e2b765efd44400a0bae2b9797a5ecf/Rectangle_4614.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/9cad6210e4184cf28c1006b4a612c87f/REFLEX_BLUE.png",
+          "https://store.bblcdn.eu/s8/default/9cad6210e4184cf28c1006b4a612c87f/REFLEX_BLUE.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 6,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "738173299117862916",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/1c9744aa5c9e4d43be9266a441d7a9b2/Dark_Beige.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/86f7a87158834e79813b43badc1b26af/Dark_Beige_1.jpg",
+          "https://store.bblcdn.eu/s8/default/86f7a87158834e79813b43badc1b26af/Dark_Beige_1.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 7,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "703100873995440129",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/9bf28782fd43453d8b895e606a89e2fe/Rectangle_4610.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/523e094a800f4064bf5d93daa1d05a08/WHITE.png",
+          "https://store.bblcdn.eu/s8/default/523e094a800f4064bf5d93daa1d05a08/WHITE.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 8,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "703100873995440128",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/41287fdd7bbb42beb4a84be3f1c6e617/balck.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/c5cd4b9fed76448d8611f956a92b0ea7/Black.png",
+          "https://store.bblcdn.eu/s8/default/c5cd4b9fed76448d8611f956a92b0ea7/Black.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 9,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "703100873995440134",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/09fe2696c08c4d8a81647cc1f036c1e3/Rectangle_4615.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/fcacc5422e634ae7975f57b970504c36/BARK_BROWN.png",
+          "https://store.bblcdn.eu/s8/default/fcacc5422e634ae7975f57b970504c36/BARK_BROWN.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 10,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "703100873995440130",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/f85c821e8df0430a8ee3ea45ba55d5b6/Rectangle_4611.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/05d2eea2bf4d426faa7614da8069e354/GRAY.png",
+          "https://store.bblcdn.eu/s8/default/05d2eea2bf4d426faa7614da8069e354/GRAY.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 11,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "738173299117862917",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/c5d86162b09c4e34842a18bada5f48af/Misty_Blue.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/4825e2d206bd4e39bf7ef7c13bbdf20e/Misty_Blue_1.jpg",
+          "https://store.bblcdn.eu/s8/default/4825e2d206bd4e39bf7ef7c13bbdf20e/Misty_Blue_1.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 12,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "738173299117862918",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/49e6d59d20434e00ad4df4130d94178a/Pine_Green.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/d8a399750c884985b22f700e99623fa1/Pine_Green_1.jpg",
+          "https://store.bblcdn.eu/s8/default/d8a399750c884985b22f700e99623fa1/Pine_Green_1.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 13,
+        "discountLabel": null,
+        "discountSkuId": null
+      }
+    ],
+    "highlightProductSkuId": null,
+    "preSaleTag": "",
+    "flashSaleTag": "",
+    "fullDiscountName": "after bulk sale",
+    "fullDiscountTag": "Bulk Sale",
+    "saleTime": null,
+    "highlightText": null,
+    "isNew": false,
+    "earnMultiple": null,
+    "requiresNotify": false,
+    "scheduledSale": false,
+    "hasScheduledSale": false,
+    "priceExplanation": null,
+    "lowerPriceSkuId": "738173299117862999",
+    "isFilament": true,
+    "imageLabels": null
+  },
+  {
+    "id": "775952393438285824",
+    "seoCode": "petg-matte",
+    "type": 1,
+    "name": "PETG Matte",
+    "lowerPrice": 8.4747,
+    "price": null,
+    "fromFlag": false,
+    "currency": "EUR",
+    "mediaFiles": [
+      "https://store.bblcdn.eu/s8/default/d70a3897529942a9b9ef310ee10112d0/black.png",
+      "https://store.bblcdn.eu/s8/default/7fcb0c4768fa48bd83970f9d168ca8e5/rabbit.jpg",
+      "https://store.bblcdn.eu/s8/default/b14d5c0991ff4577a44c519d7e893111/In_the_Box_3.jpg",
+      "https://store.bblcdn.eu/s8/default/7b8cfec40dc74d2585056b9c2406a7f7/07-compressed.jpg",
+      "https://store.bblcdn.eu/s8/default/2a77f7dfe46b4bdf957fd8115aadda0a/04-compressed.jpg",
+      "https://store.bblcdn.eu/s8/default/20964b7502cb4623a32e4b4024aff384/02-compressed.jpg",
+      "https://store.bblcdn.eu/s8/default/97bfea817df947498fa49a83ba3b44d7/08-compressed.jpg",
+      "https://store.bblcdn.eu/s8/default/502a01ccf9db42e4974cdbf748cb7a91/03-compressed.jpg",
+      "https://store.bblcdn.eu/s8/default/f9d466844bea4f65ac3424ed245be52f/06-compressed.jpg",
+      "https://store.bblcdn.eu/s8/default/54e6fd898f2c492d935e1acb2c18e8bc/05-compressed.jpg"
+    ],
+    "eta": null,
+    "outOfStockMsg": "",
+    "discountLabel": null,
+    "colorList": [
+      {
+        "propertyValueId": "775952393450868737",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/54274ad2177640cbbb65730a0eaccf32/Rectangle_160417.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/d70a3897529942a9b9ef310ee10112d0/black.png",
+          "https://store.bblcdn.eu/s8/default/d70a3897529942a9b9ef310ee10112d0/black.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 1,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "775952393450868738",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/76e8c561196449c1866f04e469d8adf6/Rectangle_160419.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/7b8cfec40dc74d2585056b9c2406a7f7/07-compressed.jpg",
+          "https://store.bblcdn.eu/s8/default/7b8cfec40dc74d2585056b9c2406a7f7/07-compressed.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 2,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "775952393450868739",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/3ccbfdcd198e406186174b2ed560cccf/Rectangle_160420.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/2a77f7dfe46b4bdf957fd8115aadda0a/04-compressed.jpg",
+          "https://store.bblcdn.eu/s8/default/2a77f7dfe46b4bdf957fd8115aadda0a/04-compressed.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 3,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "775952393450868740",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/41e6bee8be0a421095448560d2b6c39a/Rectangle_160421.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/20964b7502cb4623a32e4b4024aff384/02-compressed.jpg",
+          "https://store.bblcdn.eu/s8/default/20964b7502cb4623a32e4b4024aff384/02-compressed.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 4,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "775952393450868741",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/4386cfffb4164206bd4506eac8186477/Rectangle_160423.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/97bfea817df947498fa49a83ba3b44d7/08-compressed.jpg",
+          "https://store.bblcdn.eu/s8/default/97bfea817df947498fa49a83ba3b44d7/08-compressed.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 5,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "775952393450868742",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/9f3ab40dfc744772817a9c2de8b3fff9/Rectangle_160422.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/502a01ccf9db42e4974cdbf748cb7a91/03-compressed.jpg",
+          "https://store.bblcdn.eu/s8/default/502a01ccf9db42e4974cdbf748cb7a91/03-compressed.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 6,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "775952393450868743",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/8e04b82d7f024fa092ee7bfa482e3343/Rectangle_160424.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/f9d466844bea4f65ac3424ed245be52f/06-compressed.jpg",
+          "https://store.bblcdn.eu/s8/default/f9d466844bea4f65ac3424ed245be52f/06-compressed.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 7,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "775952393450868744",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/0671ff631c6145cca35e248816d42ec9/Rectangle_160418.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/54e6fd898f2c492d935e1acb2c18e8bc/05-compressed.jpg",
+          "https://store.bblcdn.eu/s8/default/54e6fd898f2c492d935e1acb2c18e8bc/05-compressed.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 8,
+        "discountLabel": null,
+        "discountSkuId": null
+      }
+    ],
+    "highlightProductSkuId": null,
+    "preSaleTag": "",
+    "flashSaleTag": "",
+    "fullDiscountName": "after bulk sale",
+    "fullDiscountTag": "Bulk Sale",
+    "saleTime": null,
+    "highlightText": null,
+    "isNew": false,
+    "earnMultiple": null,
+    "requiresNotify": false,
+    "scheduledSale": false,
+    "hasScheduledSale": false,
+    "priceExplanation": null,
+    "lowerPriceSkuId": "775952393450868862",
+    "isFilament": true,
+    "imageLabels": null
+  },
+  {
+    "id": "14800672129372",
+    "seoCode": "pla-silk-upgrade",
+    "type": 1,
+    "name": "PLA Silk+",
+    "lowerPrice": 9.0047,
+    "price": null,
+    "fromFlag": false,
+    "currency": "EUR",
+    "mediaFiles": [
+      "https://store.bblcdn.eu/s8/default/9aaebe748b88497387f3c159307aa5bf/cf2723db072c4371b3606938b8cccdb9.jpg",
+      "https://store.bblcdn.eu/s8/default/fb27f19cd6264ee8adb58a5e8a2b81fc/PLA_Silk_model_1_mb.jpg",
+      "https://store.bblcdn.eu/s8/default/4e1dfc55ed01421c96bd3d466d3dc05a/In_the_Box_3.jpg",
+      "https://store.bblcdn.eu/s8/default/3dffe0a980c84b6c8c11731d9a91e956/PLA_Silk_model_2.jpg",
+      "https://store.bblcdn.eu/s8/default/bc09443440a541a693ac8e515931f554/PLA_Silk_10.jpg",
+      "https://store.bblcdn.eu/s8/default/69ac130bc20f4e50b4a86e85cda0b419/PLA_Silk_7.jpg",
+      "https://store.bblcdn.eu/s8/default/0cab659c780744e1b3cdb3c8a10c10e5/PLA_Silk_3.jpg",
+      "https://store.bblcdn.eu/s8/default/7a25fc736bea4d869565cd98794339f8/PLA_Silk_2.jpg",
+      "https://store.bblcdn.eu/s8/default/2309fbc5069f4f60bcfaefd2b9514dd0/PLA_Silk_5.jpg",
+      "https://store.bblcdn.eu/s8/default/b6cb1b7292214ec0b38afb579d2f5f21/PLA_Silk_12.jpg",
+      "https://store.bblcdn.eu/s8/default/1b8e27cc04554d7ab6e15d6ea9585fd5/PLA_Silk_4.jpg",
+      "https://store.bblcdn.eu/s8/default/6823459945094bcea32116568a00cdf0/PLA_Silk_9.jpg",
+      "https://store.bblcdn.eu/s8/default/ee9c1fa0fb20497081755afe4acb0831/PLA_Silk_1.jpg",
+      "https://store.bblcdn.eu/s8/default/9f2542f1b7a34d9096655cd8788d2ae5/PLA_Silk_6.jpg",
+      "https://store.bblcdn.eu/s8/default/7d86004d3ab3461cb446f1faa3c4c3e3/PLA_Silk_11.jpg",
+      "https://store.bblcdn.eu/s8/default/a389e82dffba45b7b9729a20afc2a80d/PLA_Silk_8.jpg"
+    ],
+    "eta": null,
+    "outOfStockMsg": "",
+    "discountLabel": null,
+    "colorList": [
+      {
+        "propertyValueId": "593616010014699522",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/01639b1f1b074e578fa213c6cba99e27/8508648cec13489ab718c418b5f1f6fc.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/9aaebe748b88497387f3c159307aa5bf/cf2723db072c4371b3606938b8cccdb9.jpg",
+          "https://store.bblcdn.eu/s8/default/9aaebe748b88497387f3c159307aa5bf/cf2723db072c4371b3606938b8cccdb9.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 1,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616010014699523",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/5ae1b7fc98774ef6a95e48cbf993678d/cc16fe6653384ba8be2339ea007fceb5.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/bc09443440a541a693ac8e515931f554/PLA_Silk_10.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 2,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616010014699524",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/7eef94f45be644ae9c529bf6b2824f13/7d8ebe300b2f401b9050108f73f5b031.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/69ac130bc20f4e50b4a86e85cda0b419/PLA_Silk_7.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 3,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616010014699525",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/0a03a1258242473885101cd4220a7701/7b2acb3c9bbe45b88dda6135f77828ba.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/0cab659c780744e1b3cdb3c8a10c10e5/PLA_Silk_3.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 4,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616010014699526",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/1f650bec1f394120bf03afe4ce78886a/0315945587e04863be19889a3fcb308e.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/7a25fc736bea4d869565cd98794339f8/PLA_Silk_2.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 5,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616010014699527",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/1d2b4d742ead4aeeaa1185ab88ae62d5/74d0884c3c3e48deb606dff285cb9c50.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/2309fbc5069f4f60bcfaefd2b9514dd0/PLA_Silk_5.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 6,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616010014699528",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/6d659bdc365d43d5a689aca52cf211d3/acece968b6744a20987536468921111c.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/b6cb1b7292214ec0b38afb579d2f5f21/PLA_Silk_12.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 7,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616010014699529",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/b2ff6b218e814c7cba4a78a4a3a8a549/a8ca2a3c76ed4b9aa59cbe9252a257da.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/1b8e27cc04554d7ab6e15d6ea9585fd5/PLA_Silk_4.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 8,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616010014699530",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/b5d3a92199c84d889016ef028c34c359/48b55cfca8ad4fe7bf2c6ad634bdd591.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/6823459945094bcea32116568a00cdf0/PLA_Silk_9.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 9,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616010014699531",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/1b0a3b1d81cb46d88cbbae26567f380c/c78393158aba4d519ae220102d177a5e.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/ee9c1fa0fb20497081755afe4acb0831/PLA_Silk_1.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 10,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616010014699532",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/b4a0b444bd344a40bbec2e4a5f67feda/5710aedc075446f694ec8a393a779be2.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/9f2542f1b7a34d9096655cd8788d2ae5/PLA_Silk_6.jpg",
+          "https://store.bblcdn.eu/s8/default/9f2542f1b7a34d9096655cd8788d2ae5/PLA_Silk_6.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 11,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616010014699533",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/4fcd190101a947159250365cc5e714a8/07d108b79a8a4b2bbf2e1087381a720b.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/7d86004d3ab3461cb446f1faa3c4c3e3/PLA_Silk_11.jpg",
+          "https://store.bblcdn.eu/s8/default/7d86004d3ab3461cb446f1faa3c4c3e3/PLA_Silk_11.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 12,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616010014699534",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/8a62583b9687403d91508c4ff13d42f0/e3138a7f12ff424a9f033dae1ecc3e5b.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/a389e82dffba45b7b9729a20afc2a80d/PLA_Silk_8.jpg",
+          "https://store.bblcdn.eu/s8/default/a389e82dffba45b7b9729a20afc2a80d/PLA_Silk_8.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 13,
+        "discountLabel": null,
+        "discountSkuId": null
+      }
+    ],
+    "highlightProductSkuId": null,
+    "preSaleTag": "",
+    "flashSaleTag": "",
+    "fullDiscountName": "after bulk sale",
+    "fullDiscountTag": "Bulk Sale",
+    "saleTime": null,
+    "highlightText": null,
+    "isNew": false,
+    "earnMultiple": null,
+    "requiresNotify": false,
+    "scheduledSale": false,
+    "hasScheduledSale": false,
+    "priceExplanation": null,
+    "lowerPriceSkuId": "678380546395922444",
+    "isFilament": true,
+    "imageLabels": null
+  },
+  {
+    "id": "738891519786246144",
+    "seoCode": "pla-pure",
+    "type": 1,
+    "name": "PLA Pure",
+    "lowerPrice": 10.0647,
+    "price": null,
+    "fromFlag": false,
+    "currency": "EUR",
+    "mediaFiles": [
+      "https://store.bblcdn.eu/s8/default/ddad17bc01ba4519965ad3d8ada7fa42/PLA_purePLA_pure.jpg",
+      "https://store.bblcdn.eu/s8/default/cafeb8dce51a4d4cae836d4c488489cb/20260616-095409.jpg",
+      "https://store.bblcdn.eu/s8/default/4e1dfc55ed01421c96bd3d466d3dc05a/In_the_Box_3.jpg",
+      "https://store.bblcdn.eu/s8/default/7e34180e4a2e4b3c9951e40b459e7838/4.jpg",
+      "https://store.bblcdn.eu/s8/default/e3f9cebb092c4b499cec94c6a0a9b680/5.jpg",
+      "https://store.bblcdn.eu/s8/default/43cbb61e5120432e8311a1a05974b4cf/2.jpg",
+      "https://store.bblcdn.eu/s8/default/b00b40bfed7e4c1ea26ab7c1192128b9/3.jpg"
+    ],
+    "eta": null,
+    "outOfStockMsg": "",
+    "discountLabel": null,
+    "colorList": [
+      {
+        "propertyValueId": "738891519803023360",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/25028ea0011c47c99d6229c285050389/Milky_Pink.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/ddad17bc01ba4519965ad3d8ada7fa42/PLA_purePLA_pure.jpg",
+          "https://store.bblcdn.eu/s8/default/ddad17bc01ba4519965ad3d8ada7fa42/PLA_purePLA_pure.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 1,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "738891519803023361",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/514dd4f98c374efd8d2ac5acada16361/Baby_Blue.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/7e34180e4a2e4b3c9951e40b459e7838/4.jpg",
+          "https://store.bblcdn.eu/s8/default/7e34180e4a2e4b3c9951e40b459e7838/4.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 2,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "738891519803023362",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/d0036c0776ea4bc9a935c05121153a48/Apricot.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/e3f9cebb092c4b499cec94c6a0a9b680/5.jpg",
+          "https://store.bblcdn.eu/s8/default/e3f9cebb092c4b499cec94c6a0a9b680/5.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 3,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "738891519803023363",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/5939cb6c15514a7bb404738123d817c2/Pure_White.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/43cbb61e5120432e8311a1a05974b4cf/2.jpg",
+          "https://store.bblcdn.eu/s8/default/43cbb61e5120432e8311a1a05974b4cf/2.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 4,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "738891519803023364",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/9f20ac0521274da7806a446f642a903f/Absolute_Black.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/b00b40bfed7e4c1ea26ab7c1192128b9/3.jpg",
+          "https://store.bblcdn.eu/s8/default/b00b40bfed7e4c1ea26ab7c1192128b9/3.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 5,
+        "discountLabel": null,
+        "discountSkuId": null
+      }
+    ],
+    "highlightProductSkuId": null,
+    "preSaleTag": "",
+    "flashSaleTag": "",
+    "fullDiscountName": "after bulk sale",
+    "fullDiscountTag": "Bulk Sale",
+    "saleTime": null,
+    "highlightText": null,
+    "isNew": false,
+    "earnMultiple": null,
+    "requiresNotify": false,
+    "scheduledSale": false,
+    "hasScheduledSale": false,
+    "priceExplanation": null,
+    "lowerPriceSkuId": "738891519803023434",
+    "isFilament": true,
+    "imageLabels": null
+  },
+  {
+    "id": "14966909305180",
+    "seoCode": "pla-translucent",
+    "type": 1,
+    "name": "PLA Translucent",
+    "lowerPrice": 10.5947,
+    "price": null,
+    "fromFlag": false,
+    "currency": "EUR",
+    "mediaFiles": [
+      "https://store.bblcdn.eu/s8/default/18aacd2b879441cd80c2cd067b2ad0a1/teal_4dc29df4-13e2-4c00-9e6a-7dbf9183952a.jpg",
+      "https://store.bblcdn.eu/s8/default/1ddae88a291a47f092ecc75dc04ace29/Butterfly.png",
+      "https://store.bblcdn.eu/s8/default/897233e480eb42d3bbc03e0bc79eaafd/000878ce6144c05ffac949f66b05a18b_0a1f2a15-2a6c-4e9e-88b1-029f32d29e27.jpg",
+      "https://store.bblcdn.eu/s8/default/6a9756a7330f435680a38eddc5f1ef0f/996c0314d3c9f4f6a92e228ed4c8e264_a6207c48-38ce-4034-8302-449a67d23b51.jpg",
+      "https://store.bblcdn.eu/s8/default/2c97c8fe53e84d41bb62db185fcb74b4/c8682a1b6d56a22c3b0a59f59bf75cf5_b6dcbcfa-e6f8-41b9-a666-bef24ba52ac7.jpg",
+      "https://store.bblcdn.eu/s8/default/4af9bce7cfd243e3bae35a822b919987/520f764beb1954cab793b251ed2a5a3f.jpg",
+      "https://store.bblcdn.eu/s8/default/99b56f8c67834ab285715889859f08bb/e250fdbcaf7669fa3269b6565491cdcc.jpg",
+      "https://store.bblcdn.eu/s8/default/826a4cff55a543089394ca0feddebbf5/af0454a2a27b7c6259624f48c64717dd.jpg",
+      "https://store.bblcdn.eu/s8/default/2c0543a76f134b47aa85ce53a00c6b0a/b250b32bdc6d015ef107c6c2880ac956.jpg",
+      "https://store.bblcdn.eu/s8/default/dc877cda7f2b4bd4b186c54b14900a04/cce64cbc630f968803ae0beb0146a780.jpg",
+      "https://store.bblcdn.eu/s8/default/b09ff5a0de2748a0b57181fc5e568b1e/bc1c912b64c066d06fd795fee51d877b.jpg"
+    ],
+    "eta": null,
+    "outOfStockMsg": "",
+    "discountLabel": null,
+    "colorList": [
+      {
+        "propertyValueId": "593614166873944066",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/eb07aa46141a4cafbaf9358d41e145b7/Rectangle_4549.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/18aacd2b879441cd80c2cd067b2ad0a1/teal_4dc29df4-13e2-4c00-9e6a-7dbf9183952a.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 1,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593614166873944067",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/e339c483a76a463db6e541dcdf25b467/Rectangle_4550.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/897233e480eb42d3bbc03e0bc79eaafd/000878ce6144c05ffac949f66b05a18b_0a1f2a15-2a6c-4e9e-88b1-029f32d29e27.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 2,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593614166873944068",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/dbddbaf02b1d47f1802c6f5da239e45f/Rectangle_4551.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/6a9756a7330f435680a38eddc5f1ef0f/996c0314d3c9f4f6a92e228ed4c8e264_a6207c48-38ce-4034-8302-449a67d23b51.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 3,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593614166873944069",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/ba91117386604ce686888209cfed7a48/Rectangle_4552.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/2c97c8fe53e84d41bb62db185fcb74b4/c8682a1b6d56a22c3b0a59f59bf75cf5_b6dcbcfa-e6f8-41b9-a666-bef24ba52ac7.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 4,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593614166873944070",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/4f8bc79c49c1428f8203f78ef91e63e8/Rectangle_4553.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/4af9bce7cfd243e3bae35a822b919987/520f764beb1954cab793b251ed2a5a3f.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 5,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593614166873944071",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/26733b7f84884d3a8a9a02fbe93f0f15/Rectangle_4554.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/99b56f8c67834ab285715889859f08bb/e250fdbcaf7669fa3269b6565491cdcc.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 6,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593614166873944072",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/d5bf6db92b904951ae16a4764f3d4a65/Rectangle_4555.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/826a4cff55a543089394ca0feddebbf5/af0454a2a27b7c6259624f48c64717dd.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 7,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593614166873944073",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/04edf5805efc4e709df8fcfbabab45cd/Rectangle_4556.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/2c0543a76f134b47aa85ce53a00c6b0a/b250b32bdc6d015ef107c6c2880ac956.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 8,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593614166873944074",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/9ae8ab0306a34e5a885329afa11105ee/Rectangle_4557.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/dc877cda7f2b4bd4b186c54b14900a04/cce64cbc630f968803ae0beb0146a780.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 9,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593614166873944075",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/5dc9fd2e71a54485bab1f7bd64e407f4/Rectangle_4558.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/b09ff5a0de2748a0b57181fc5e568b1e/bc1c912b64c066d06fd795fee51d877b.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 10,
+        "discountLabel": null,
+        "discountSkuId": null
+      }
+    ],
+    "highlightProductSkuId": null,
+    "preSaleTag": "",
+    "flashSaleTag": "",
+    "fullDiscountName": "after bulk sale",
+    "fullDiscountTag": "Bulk Sale",
+    "saleTime": null,
+    "highlightText": null,
+    "isNew": false,
+    "earnMultiple": null,
+    "requiresNotify": false,
+    "scheduledSale": false,
+    "hasScheduledSale": false,
+    "priceExplanation": null,
+    "lowerPriceSkuId": "54345716564316",
+    "isFilament": true,
+    "imageLabels": null
+  },
+  {
+    "id": "8693569978716",
+    "seoCode": "petg-translucent",
+    "type": 1,
+    "name": "PETG Translucent",
+    "lowerPrice": 9.0047,
+    "price": null,
+    "fromFlag": false,
+    "currency": "EUR",
+    "mediaFiles": [
+      "https://store.bblcdn.eu/s8/default/e39842a1bdb243a2bbb809444d83ad94/JP34951_dfb10fec-368d-47a7-8bd8-bb506498a9bd.jpg",
+      "https://store.bblcdn.eu/s8/default/901c415c3532408cb91fa4b80a33eb5c/1a0131d637ff5b88f0146384e77220c1.jpg",
+      "https://store.bblcdn.eu/s8/default/4e1dfc55ed01421c96bd3d466d3dc05a/In_the_Box_3.jpg",
+      "https://store.bblcdn.eu/s8/default/c20d71f0674f4c588aad73f8318a0868/1_bbee0eec-efc7-4dc4-a6ec-e8cc9a670d0e.jpg",
+      "https://store.bblcdn.eu/s8/default/e58693872f18480387037e9adb588003/Wave2.jpg",
+      "https://store.bblcdn.eu/s8/default/2eddc10a638a4697adc523f88930da67/Light.jpg",
+      "https://store.bblcdn.eu/s8/default/1c7d19e5ffc44d0a8a267d98098eb54a/JP34968.jpg",
+      "https://store.bblcdn.eu/s8/default/79b52c634adb47de830ba113a20ab628/JP34971.jpg",
+      "https://store.bblcdn.eu/s8/default/b06b4fa130f14282924b9d304282cf12/JP34954.jpg",
+      "https://store.bblcdn.eu/s8/default/2acc9e4245994c39ba1f2cf138de896c/JP34965.jpg",
+      "https://store.bblcdn.eu/s8/default/e64e61b593ae40fd8b87cd7f9090f164/JP34975.jpg",
+      "https://store.bblcdn.eu/s8/default/5ea62fbbfa36432eab39250ffcfcdc91/JP34969.jpg",
+      "https://store.bblcdn.eu/s8/default/27751740714549488541e9ca7966f34b/JP34961.jpg",
+      "https://store.bblcdn.eu/s8/default/5899d2a1aa444699b27ec132bb980860/3d4408c8738e6ed420e7e514a97a8bf9.png"
+    ],
+    "eta": null,
+    "outOfStockMsg": "",
+    "discountLabel": null,
+    "colorList": [
+      {
+        "propertyValueId": "593615911029125123",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/4d2eb3faa6ea4da2bf16856f1c9b8c71/0f982290866445e2aa2a0e87f3999f85.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/e39842a1bdb243a2bbb809444d83ad94/JP34951_dfb10fec-368d-47a7-8bd8-bb506498a9bd.jpg",
+          "https://store.bblcdn.eu/s8/default/e39842a1bdb243a2bbb809444d83ad94/JP34951_dfb10fec-368d-47a7-8bd8-bb506498a9bd.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 1,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593615911029125124",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/3e2776e64a4640dfb572caf2ac1fd630/342df5a8028045e49ad43889ca05d3a7.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/79b52c634adb47de830ba113a20ab628/JP34971.jpg",
+          "https://store.bblcdn.eu/s8/default/79b52c634adb47de830ba113a20ab628/JP34971.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 2,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593615911029125125",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/bb8907b1705c4973b8057e276b1f6a2f/daf1de2327714f57bd6aa32670d329cc.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/5899d2a1aa444699b27ec132bb980860/3d4408c8738e6ed420e7e514a97a8bf9.png",
+          "https://store.bblcdn.eu/s8/default/5899d2a1aa444699b27ec132bb980860/3d4408c8738e6ed420e7e514a97a8bf9.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 3,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593615911029125126",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/bb7cda59f3a243d9a386aadcb0ca3a75/042c27699ca7449ba6b4adc1d0b54b00.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/27751740714549488541e9ca7966f34b/JP34961.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 4,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593615911029125127",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/ff85e19d9a4e45b1b8c81bc24852d560/e0a9f45779d04ae28677449c1ff03d44.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/b06b4fa130f14282924b9d304282cf12/JP34954.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 5,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593615911029125128",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/8adb0ea798614425b07f5af8cdb0f10b/5f5b2ce4c11b4a7bb6a577d658fb2c8b.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/e64e61b593ae40fd8b87cd7f9090f164/JP34975.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 6,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593615911029125129",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/fb002a9b2dfd449396f97453c252a69f/d7588868519f40ed9286d9230e2f3ae1.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/5ea62fbbfa36432eab39250ffcfcdc91/JP34969.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 7,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593615911029125130",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/cf4c552add2b42d8af2f06dd6e01d78c/62a0a80a60d4438d9cdf6624bdef3643.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/2acc9e4245994c39ba1f2cf138de896c/JP34965.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 8,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593615911029125131",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/8f14129f76104a16a4eac6bbb7d02112/ad3609015eb94c1bbca999caf63e20f6.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/1c7d19e5ffc44d0a8a267d98098eb54a/JP34968.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 9,
+        "discountLabel": null,
+        "discountSkuId": null
+      }
+    ],
+    "highlightProductSkuId": null,
+    "preSaleTag": "",
+    "flashSaleTag": "",
+    "fullDiscountName": "after bulk sale",
+    "fullDiscountTag": "Bulk Sale",
+    "saleTime": null,
+    "highlightText": null,
+    "isNew": false,
+    "earnMultiple": null,
+    "requiresNotify": false,
+    "scheduledSale": false,
+    "hasScheduledSale": false,
+    "priceExplanation": null,
+    "lowerPriceSkuId": "49074123145564",
+    "isFilament": true,
+    "imageLabels": null
+  },
+  {
+    "id": "7713130840283",
+    "seoCode": "abs-filament",
+    "type": 1,
+    "name": "ABS",
+    "lowerPrice": 9.0047,
+    "price": null,
+    "fromFlag": false,
+    "currency": "EUR",
+    "mediaFiles": [
+      "https://store.bblcdn.eu/s8/default/5d297742b7744e58a742421ec967a0ea/ABSsilver.png",
+      "https://store.bblcdn.eu/s8/default/bab0299717514f4e9e52d7a59a8db1d5/BambuABSfilament_1.jpg",
+      "https://store.bblcdn.eu/s8/default/51098d91e5ce4571b43398ff45707161/In_the_Box_2.jpg",
+      "https://store.bblcdn.eu/s8/default/a6d1c0a83d8b46f081d159103411af21/ABS_Black.png",
+      "https://store.bblcdn.eu/s8/default/36667935a66b47a88f70a6972811d160/ABS_White.png",
+      "https://store.bblcdn.eu/s8/default/2efb98b9aa3b4d53a79128e6dd1f846f/ABS_Red.png",
+      "https://store.bblcdn.eu/s8/default/9f9b5ec2240847039bb96666464abf98/ABSbambugreen.png",
+      "https://store.bblcdn.eu/s8/default/e7a9d99123344fb99c40f2ab2b251ca2/ABSorange.png",
+      "https://store.bblcdn.eu/s8/default/669a9881339743389287189f9ac15a38/0be9a584b30358020d8706f2aa8ec9c2.jpg",
+      "https://store.bblcdn.eu/s8/default/3cfc12de46f64f54b2a6426180654abc/7376d19b161f2a93a4051e47289d0505.jpg",
+      "https://store.bblcdn.eu/s8/default/aabac837c5b14da1a0694e8132819d29/ABS_Blue.png",
+      "https://store.bblcdn.eu/s8/default/03af465ddb1f494eb9f706fc15bb431d/80cf6768c03d129dfa6a01ac67a5b402.jpg",
+      "https://store.bblcdn.eu/s8/default/839fefc1f7d54ff085e4a577677ba338/000878ce6144c05ffac949f66b05a18b.jpg"
+    ],
+    "eta": null,
+    "outOfStockMsg": "",
+    "discountLabel": null,
+    "colorList": [
+      {
+        "propertyValueId": "593606671732387843",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/0ddfc5279b314871b713ee4c1f64fde9/522789b7d815491293c866621998b103.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/5d297742b7744e58a742421ec967a0ea/ABSsilver.png",
+          "https://store.bblcdn.eu/s8/default/5d297742b7744e58a742421ec967a0ea/ABSsilver.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 1,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593606671732387844",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/7aa8622394de4a038f8ed4042435b4ee/c46ab8ddcfaf43aaa68ea23f8ec21367.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/a6d1c0a83d8b46f081d159103411af21/ABS_Black.png",
+          "https://store.bblcdn.eu/s8/default/a6d1c0a83d8b46f081d159103411af21/ABS_Black.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 2,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593606671732387845",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/cba080c5a6fc4d0b8cac448c7d7d416e/47a50b15242d40298bc1beb1b8abaca4.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/36667935a66b47a88f70a6972811d160/ABS_White.png",
+          "https://store.bblcdn.eu/s8/default/36667935a66b47a88f70a6972811d160/ABS_White.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 3,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593606671732387846",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/c397f91d6153447786efc2599e19e744/2ee4f4ced1064bb98b4ee6bec52d86ac.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/2efb98b9aa3b4d53a79128e6dd1f846f/ABS_Red.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 4,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593606671732387847",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/83df8717108d423eba9bc09ad8f40525/3ee4dd48e6db461a82125f5e6c57ec9f.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/9f9b5ec2240847039bb96666464abf98/ABSbambugreen.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 5,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593606671732387848",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/bb531e6c5cf84f6eb8ec23ead4b04693/84f5f85de8894faf81d7ce5129c70211.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/e7a9d99123344fb99c40f2ab2b251ca2/ABSorange.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 6,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593606671732387849",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/2f077d0baec7407c8ddec8307a45a9a7/425caf237fd44c4493617bd11b15a57c.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/669a9881339743389287189f9ac15a38/0be9a584b30358020d8706f2aa8ec9c2.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 7,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593606671732387850",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/23b8135593c24d829996d3364842b932/c3a543a16e0d4869aa547cb1104af70b.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/3cfc12de46f64f54b2a6426180654abc/7376d19b161f2a93a4051e47289d0505.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 8,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593606671732387851",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/95562511dc1d4f188466893be24cfbda/0c2aef92cc4d4e509bbfc1b477bdb4c8.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/aabac837c5b14da1a0694e8132819d29/ABS_Blue.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 9,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593606671732387852",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/0a217a8e96974db9ace1eb92e42dd7f8/c79c0361ff3d46a681b9b64c4b4a6334.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/03af465ddb1f494eb9f706fc15bb431d/80cf6768c03d129dfa6a01ac67a5b402.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 10,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593606671732387853",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/151dc3b19cdb4c9eab2cb5d283ab9c04/aafe7b43b40641d4b8a111aa26c8eb04.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/839fefc1f7d54ff085e4a577677ba338/000878ce6144c05ffac949f66b05a18b.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 11,
+        "discountLabel": null,
+        "discountSkuId": null
+      }
+    ],
+    "highlightProductSkuId": null,
+    "preSaleTag": "",
+    "flashSaleTag": "",
+    "fullDiscountName": "after bulk sale",
+    "fullDiscountTag": "Bulk Sale",
+    "saleTime": null,
+    "highlightText": null,
+    "isNew": false,
+    "earnMultiple": null,
+    "requiresNotify": false,
+    "scheduledSale": false,
+    "hasScheduledSale": false,
+    "priceExplanation": null,
+    "lowerPriceSkuId": "48953684394332",
+    "isFilament": true,
+    "imageLabels": null
+  },
+  {
+    "id": "624496486480699392",
+    "seoCode": "pla-tough-upgrade",
+    "type": 1,
+    "name": "PLA Tough+",
+    "lowerPrice": 12.7147,
+    "price": null,
+    "fromFlag": false,
+    "currency": "EUR",
+    "mediaFiles": [
+      "https://store.bblcdn.eu/s8/default/76a53975eaab4238ab610612c4efdc5f/PLA_Tough_(3).jpg",
+      "https://store.bblcdn.eu/s8/default/a09c18ee497e4848a383ab420322cce3/pla_tough.jpg",
+      "https://store.bblcdn.eu/s8/default/4e1dfc55ed01421c96bd3d466d3dc05a/In_the_Box_3.jpg",
+      "https://store.bblcdn.eu/s8/default/eeeff48a95b04c5888ee3fddc2d830be/PLA_Tough_new.jpg",
+      "https://store.bblcdn.eu/s8/default/e0c0dacfe71a4e5795d008b8df8995ba/PLA_Tough_(5).jpg",
+      "https://store.bblcdn.eu/s8/default/a88104a53799478db5603f76524d833b/PLA_Tough_(1).jpg",
+      "https://store.bblcdn.eu/s8/default/0107d882ca3b462981680c380ff53370/PLA_Tough_(2).jpg",
+      "https://store.bblcdn.eu/s8/default/0e011944be0f463da0ab267dc981db97/PLA_Tough_(4).jpg",
+      "https://store.bblcdn.eu/s8/default/42bb57e8d1424530be92b0cf8c252fd5/PLA_Tough_(2).jpg"
+    ],
+    "eta": null,
+    "outOfStockMsg": "",
+    "discountLabel": null,
+    "colorList": [
+      {
+        "propertyValueId": "624496486489088002",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/6d1a64544c3a45cca6050b3ce186b7b4/Rectangle_4556.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/76a53975eaab4238ab610612c4efdc5f/PLA_Tough_(3).jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 1,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "624496486489088001",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/c757eaf2c8b64cd7879faa893e842399/Rectangle_4554_(1).jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/eeeff48a95b04c5888ee3fddc2d830be/PLA_Tough_new.jpg",
+          "https://store.bblcdn.eu/s8/default/eeeff48a95b04c5888ee3fddc2d830be/PLA_Tough_new.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 2,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "624496486489088003",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/2583cecf166043838df6e1c6afac7e1a/Rectangle_4558.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/e0c0dacfe71a4e5795d008b8df8995ba/PLA_Tough_(5).jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 3,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "624496486489088004",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/cefcc276644e4729b1485b20a8808a20/Rectangle_4553.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/a88104a53799478db5603f76524d833b/PLA_Tough_(1).jpg",
+          "https://store.bblcdn.eu/s8/default/a88104a53799478db5603f76524d833b/PLA_Tough_(1).jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 4,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "624496486489088005",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/876324c5b4ad4a9eb5159e99e92b1da0/Rectangle_4555.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/0107d882ca3b462981680c380ff53370/PLA_Tough_(2).jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 5,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "624496486489088006",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/7133271dce5c43299467fdfcd8341781/Rectangle_4557.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/0e011944be0f463da0ab267dc981db97/PLA_Tough_(4).jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 6,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "624496486489088007",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/40cfd5555aaf4fcd912a7e3b1cfe9521/Rectangle_4551.jpg",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/42bb57e8d1424530be92b0cf8c252fd5/PLA_Tough_(2).jpg",
+          "https://store.bblcdn.eu/s8/default/42bb57e8d1424530be92b0cf8c252fd5/PLA_Tough_(2).jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 7,
+        "discountLabel": null,
+        "discountSkuId": null
+      }
+    ],
+    "highlightProductSkuId": null,
+    "preSaleTag": "",
+    "flashSaleTag": "",
+    "fullDiscountName": "after bulk sale",
+    "fullDiscountTag": "Bulk Sale",
+    "saleTime": null,
+    "highlightText": null,
+    "isNew": false,
+    "earnMultiple": null,
+    "requiresNotify": false,
+    "scheduledSale": false,
+    "hasScheduledSale": false,
+    "priceExplanation": null,
+    "lowerPriceSkuId": "661695156312956930",
+    "isFilament": true,
+    "imageLabels": null
+  },
+  {
+    "id": "14764441665884",
+    "seoCode": "pla-wood",
+    "type": 1,
+    "name": "PLA Wood",
+    "lowerPrice": 14.8347,
+    "price": null,
+    "fromFlag": false,
+    "currency": "EUR",
+    "mediaFiles": [
+      "https://store.bblcdn.eu/s8/default/11c1ab483b664ebbbfcf7414c1ec0167/4_4f1d41bd-761c-4ac8-bea1-540852b7334d.jpg",
+      "https://store.bblcdn.eu/s8/default/eca84b6d1f6940f0a1e89d9826588694/PLA_Wood_2.png",
+      "https://store.bblcdn.eu/s8/default/ca1a2ee551414937a3f88a899c0ba2ce/PLA_Wood_1.png",
+      "https://store.bblcdn.eu/s8/default/c731fddceeb641a3872e4020a87ab3b2/5_335a103f-01a9-4d9e-90e1-f09e885ea39a.jpg",
+      "https://store.bblcdn.eu/s8/default/4063ef6f2a6f4a6dac964c52500e2240/2_a72cb84b-e92c-4efa-a205-589184265d78.jpg",
+      "https://store.bblcdn.eu/s8/default/1489d45ae40843769bd3b87e74e20c57/3_37397ab4-e4dc-4e75-98f9-b69f78c4b142.jpg",
+      "https://store.bblcdn.eu/s8/default/07dea71a85974b74bc502abce752c7e1/1_8a574e02-b803-4e36-b895-8bb70529a014.jpg",
+      "https://store.bblcdn.eu/s8/default/09a1ea1e6be44bbe924fa427e0f58ac0/6_ef2119c0-2b6b-4853-8812-03e097822ad9.jpg"
+    ],
+    "eta": null,
+    "outOfStockMsg": "",
+    "discountLabel": null,
+    "colorList": [
+      {
+        "propertyValueId": "593616727618170881",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/bdca56b541c14abca6deffa609738f7b/362e740e8fc745acb359536feee5436e.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/c731fddceeb641a3872e4020a87ab3b2/5_335a103f-01a9-4d9e-90e1-f09e885ea39a.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 1,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616727618170882",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/d3b30a14375c45c1a48861bc02fd0624/55bfe8a8f9e64d0ebd78df70a08296bd.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/11c1ab483b664ebbbfcf7414c1ec0167/4_4f1d41bd-761c-4ac8-bea1-540852b7334d.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 2,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616727618170883",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/c107303c663c4e6e9b875ca276d3aaa6/8675a05674774cddb53c006e799e4098.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/4063ef6f2a6f4a6dac964c52500e2240/2_a72cb84b-e92c-4efa-a205-589184265d78.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 3,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616727618170884",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/567c635b642640e0aa222ab2c7933649/fbf033665a5b477db42f657a2c2ef47f.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/1489d45ae40843769bd3b87e74e20c57/3_37397ab4-e4dc-4e75-98f9-b69f78c4b142.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 4,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616727618170885",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/360b956c17944bbf82e4c04d0556a676/b18bddd9eebe462ba7eaf2d1eda47048.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/07dea71a85974b74bc502abce752c7e1/1_8a574e02-b803-4e36-b895-8bb70529a014.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 5,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616727618170886",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/9bbcb88264f1430fa387df051b1a2e61/4443eb627f9b4aff8d4c2efc69a32629.png",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/09a1ea1e6be44bbe924fa427e0f58ac0/6_ef2119c0-2b6b-4853-8812-03e097822ad9.jpg"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 6,
+        "discountLabel": null,
+        "discountSkuId": null
+      }
+    ],
+    "highlightProductSkuId": null,
+    "preSaleTag": "",
+    "flashSaleTag": "",
+    "fullDiscountName": "after bulk sale",
+    "fullDiscountTag": "Bulk Sale",
+    "saleTime": null,
+    "highlightText": null,
+    "isNew": false,
+    "earnMultiple": null,
+    "requiresNotify": false,
+    "scheduledSale": false,
+    "hasScheduledSale": false,
+    "priceExplanation": null,
+    "lowerPriceSkuId": "53441583153500",
+    "isFilament": true,
+    "imageLabels": null
+  },
+  {
+    "id": "7969493156059",
+    "seoCode": "pla-sparkle",
+    "type": 1,
+    "name": "PLA Sparkle",
+    "lowerPrice": 14.8347,
+    "price": null,
+    "fromFlag": false,
+    "currency": "EUR",
+    "mediaFiles": [
+      "https://store.bblcdn.eu/s8/default/7407fc887147448bbbf89189c9539952/Sparklegreen.png",
+      "https://store.bblcdn.eu/s8/default/41b714502acf4cfc8814fd1396986119/PLASparkle.jpg",
+      "https://store.bblcdn.eu/s8/default/45c277b6ec624209a2dac7699759f455/PLASparkle-SlateGray.png",
+      "https://store.bblcdn.eu/s8/default/a4ddfc1c1e3b48ccbf577ba931ef577d/PLASparkle-RoyalPurpleSparkle.png",
+      "https://store.bblcdn.eu/s8/default/e4beb26ac3b74c639e2fda465384daa5/PLA-Sparkle_Crimson-Red-Sparkle.png",
+      "https://store.bblcdn.eu/s8/default/723f2663d59148a3a05c55dd4a3f420b/PLA-Sparkle_Onyx-Black-Sparkle.png",
+      "https://store.bblcdn.eu/s8/default/d7c727fe674e4a0a99dd774c707476b3/sparklegold.png"
+    ],
+    "eta": null,
+    "outOfStockMsg": "",
+    "discountLabel": null,
+    "colorList": [
+      {
+        "propertyValueId": "593616038359805954",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/f0955c7412074aa6b4f4e5c72333b48d/8246b8e6a11e49868ad15c121c6613f1.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/7407fc887147448bbbf89189c9539952/Sparklegreen.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 1,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616038359805955",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/080598cf79e74874bbbcceaf61a48c3c/fa9db10ecf7a4587a7e242b069b41cda.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/45c277b6ec624209a2dac7699759f455/PLASparkle-SlateGray.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 2,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616038359805956",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/54f2484ecba64dd79bdac525f039681b/dbd75d2187f24cdcb31a6e19399189ff.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/a4ddfc1c1e3b48ccbf577ba931ef577d/PLASparkle-RoyalPurpleSparkle.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 3,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616038359805957",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/df2ac024466c49a5b666ff156f2f101a/7ce5463b91f942489dccfe3660ac8167.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/e4beb26ac3b74c639e2fda465384daa5/PLA-Sparkle_Crimson-Red-Sparkle.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 4,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616038359805958",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/60b6e1eeb25c4517bea7b6df291bcc10/39cb6cb6eeee4eb088b240625c54450d.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/723f2663d59148a3a05c55dd4a3f420b/PLA-Sparkle_Onyx-Black-Sparkle.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 5,
+        "discountLabel": null,
+        "discountSkuId": null
+      },
+      {
+        "propertyValueId": "593616038359805959",
+        "colorPalette": "https://store.bblcdn.eu/s8/default/af54eca37af046ae9bebe5429e2aa079/fa6f82dee4bb4abaa5d35ba0336e8cc2.media",
+        "mediaFiles": [
+          "https://store.bblcdn.eu/s8/default/d7c727fe674e4a0a99dd774c707476b3/sparklegold.png"
+        ],
+        "eta": null,
+        "outOfStockMsg": null,
+        "colorPosition": 6,
+        "discountLabel": null,
+        "discountSkuId": null
+      }
+    ],
+    "highlightProductSkuId": null,
+    "preSaleTag": "",
+    "flashSaleTag": "",
+    "fullDiscountName": "after bulk sale",
+    "fullDiscountTag": "Bulk Sale",
+    "saleTime": null,
+    "highlightText": null,
+    "isNew": false,
+    "earnMultiple": null,
+    "requiresNotify": false,
+    "scheduledSale": false,
+    "hasScheduledSale": false,
+    "priceExplanation": null,
+    "lowerPriceSkuId": "48725896266076",
+    "isFilament": true,
+    "imageLabels": null
+  }
+]

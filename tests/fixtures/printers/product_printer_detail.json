@@ -1,0 +1,207 @@
+{
+  "product_id": 8531193200988,
+  "handle": "a1-mini",
+  "title": "Bambu Lab A1 mini 3D Printer",
+  "vendor": "Bambu Lab",
+  "category": "3D Printers",
+  "category_key": "printers",
+  "url": "https://eu.store.bambulab.com/en/products/a1-mini",
+  "description": "Fully Automated, Multi-color Printing with AMS lite, Bed-slinger with CoreXY Speed, Bambu Lab latest 3D printer A1 mini makes 3D printing easier and better with cutting edge features and reliable performance.",
+  "meta": {
+    "seo_title": "Bambu Lab A1 mini 3D Printer | Bambu Lab EU Store",
+    "captured_at": "2026-11-02T19:35:00Z"
+  },
+  "media": [
+    {
+      "id": "791594850481876992",
+      "url": "https://store.bblcdn.eu/s8/default/bdad2d286ff64b61a355d99d71495e93/A1_mini.jpg",
+      "type": "image"
+    },
+    {
+      "id": "791594867376533504",
+      "url": "https://store.bblcdn.eu/s8/default/97fb57895cd04ddcae3dddd5f93d098f/A1_mini_C.jpg",
+      "type": "image"
+    },
+    {
+      "id": "51212693930332",
+      "url": "https://store.bblcdn.eu/s8/default/6e582330b3a747e2b3823ecc86397105/A1-mini.png",
+      "type": "image"
+    },
+    {
+      "id": "50856741011804",
+      "url": "https://store.bblcdn.eu/s8/default/b26f0fd7cce640baa96b15b5d15604ab/Group48089.png",
+      "type": "image"
+    },
+    {
+      "id": "50856471626076",
+      "url": "https://store.bblcdn.eu/s8/default/45671aa1de8744549c7a549929a77532/Rectangle4549.png",
+      "type": "image"
+    },
+    {
+      "id": "673324083705954304",
+      "url": "https://store.bblcdn.eu/s8/default/1604d9e9669947d2a62d1deb5eef7bef/A1_mini.jpg",
+      "type": "image"
+    },
+    {
+      "id": "674493522497388544",
+      "url": "https://store.bblcdn.eu/s8/default/95f49b1c8e3642c3a459ab701c2c760d/A1_mini_C.jpg",
+      "type": "image"
+    }
+  ],
+  "spec_table": [
+    [
+      "Item",
+      "A1 mini Specification"
+    ],
+    [
+      "Body",
+      "Build Volume(W*D*H)",
+      "180*180*180 mm\u00b3"
+    ],
+    [
+      "Toolhead",
+      "Hot End",
+      "All-Metal"
+    ],
+    [
+      "Nozzle",
+      "Stainless Steel"
+    ],
+    [
+      "Max Hot End Temperature",
+      "300 \u00b0C"
+    ],
+    [
+      "Nozzle Diameter",
+      "0.4 mm (Included)0.2 mm, 0.6 mm, 0.8 mm"
+    ],
+    [
+      "Heatbed",
+      "Build Plate",
+      "Bambu Textured PEI Plate (Included)Bambu Smooth PEI Plate"
+    ],
+    [
+      "Max Build Plate Temperature",
+      "80\u00b0C"
+    ],
+    [
+      "Speed",
+      "Max Speed of Tool Head",
+      "500mm/s"
+    ],
+    [
+      "Max Acceleration of Tool Head",
+      "10000mm/s\u00b2"
+    ],
+    [
+      "Supported Filament",
+      "PLA, PETG, TPU, PVA",
+      "Ideal"
+    ],
+    [
+      "ABS, ASA, PC, PA, PET,Carbon/Glass Fiber Reinforced Polymer",
+      "Not Recommended"
+    ],
+    [
+      "Sensors",
+      "Monitoring Camera",
+      "Low Framerate Camera (Up to 1080P)Timelapse Supported"
+    ],
+    [
+      "Filament Run Out Sensor",
+      "Yes"
+    ],
+    [
+      "Filament Odometry",
+      "Yes"
+    ],
+    [
+      "Power Loss Recover",
+      "Yes"
+    ],
+    [
+      "Filament Tangle Sensor",
+      "Yes"
+    ],
+    [
+      "Physical Dimensions",
+      "A1 mini : 347*315*365 mm\u00b3 , Package size : 385*430*460 mm\u00b3 , Net weight 5.5 kg , Gross weight 8.2 kgA1 mini Combo : Package size 385*430*495 mm\u00b3 , Gross weight (AMS lite included) 10.2 kg"
+    ]
+  ],
+  "variants": [
+    {
+      "variant_id": 599117891173982220,
+      "title": "Bambu Lab A1 mini 3D Printer - A1 mini Combo",
+      "sku": "599117891173982220",
+      "price_minor": 27900,
+      "compare_at_minor": 29900,
+      "currency": "EUR",
+      "available": 1,
+      "image_url": "https://store.bblcdn.eu/s8/default/97fb57895cd04ddcae3dddd5f93d098f/A1_mini_C.jpg"
+    },
+    {
+      "variant_id": 599117891173982224,
+      "title": "Bambu Lab A1 mini 3D Printer - A1 mini",
+      "sku": "599117891173982224",
+      "price_minor": 17900,
+      "compare_at_minor": 18900,
+      "currency": "EUR",
+      "available": 1,
+      "image_url": "https://store.bblcdn.eu/s8/default/bdad2d286ff64b61a355d99d71495e93/A1_mini.jpg"
+    }
+  ],
+  "raw_schema_ld": {
+    "@context": "https://schema.org/",
+    "@type": "ProductGroup",
+    "name": "Bambu Lab A1 mini 3D Printer",
+    "description": "Fully Automated, Multi-color Printing with AMS lite, Bed-slinger with CoreXY Speed, Bambu Lab latest 3D printer A1 mini makes 3D printing easier and better with cutting edge features and reliable performance.",
+    "url": "https://eu.store.bambulab.com/products/a1-mini",
+    "brand": {
+      "@type": "Brand",
+      "name": "Bambu Lab"
+    },
+    "productGroupID": "8531193200988",
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "sku": "599117891173982220",
+        "image": "https://store.bblcdn.eu/s8/default/97fb57895cd04ddcae3dddd5f93d098f/A1_mini_C.jpg",
+        "name": "Bambu Lab A1 mini 3D Printer - A1 mini Combo",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://eu.store.bambulab.com/products/a1-mini?id=599117891173982220",
+          "priceCurrency": "EUR",
+          "price": 279,
+          "itemCondition": "https://schema.org/NewCondition",
+          "availability": "https://schema.org/InStock",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceType": "https://schema.org/StrikethroughPrice",
+            "price": 299,
+            "priceCurrency": "EUR"
+          }
+        }
+      },
+      {
+        "@type": "Product",
+        "sku": "599117891173982224",
+        "image": "https://store.bblcdn.eu/s8/default/bdad2d286ff64b61a355d99d71495e93/A1_mini.jpg",
+        "name": "Bambu Lab A1 mini 3D Printer - A1 mini",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://eu.store.bambulab.com/products/a1-mini?id=599117891173982224",
+          "priceCurrency": "EUR",
+          "price": 179,
+          "itemCondition": "https://schema.org/NewCondition",
+          "availability": "https://schema.org/InStock",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "priceType": "https://schema.org/StrikethroughPrice",
+            "price": 189,
+            "priceCurrency": "EUR"
+          }
+        }
+      }
+    ]
+  }
+}
