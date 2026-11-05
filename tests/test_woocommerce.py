@@ -55,7 +55,7 @@ def test_rows_are_drafts_with_parent_links_and_no_prices_or_stock() -> None:
     assert rows[1]["Parent"] == rows[0]["SKU"] == "BL-h2c"
     assert all(not r.get("Regular price") for r in rows)
     assert all("Stock" not in r for r in rows)
-    assert rows[0]["Attribute 1 value(s)"] == "AMS Combo / Standard | Laser Combo"
+    assert rows[0]["Attribute 1 value(s)"] == "AMS Combo / Standard, Laser Combo"
     assert rows[1]["Meta: _bambu_source_price_eur_gross"] == "2499.00"
     assert rows[2]["Meta: _bambu_source_available"] == "0"
 
@@ -125,3 +125,13 @@ def test_export_endpoint_csv_json_and_auth(client: TestClient) -> None:
     assert body["meta"]["count"] == 1
     assert client.get("/export/woocommerce?format=xml", headers=KEY).status_code == 422
     assert client.get("/export/woocommerce?category=bundles", headers=KEY).status_code == 400
+
+
+def test_commas_in_option_labels_are_escaped_for_the_importer() -> None:
+    product = {
+        **PRODUCT,
+        "variants": [{"sku": "1", "title": "Bambu Lab H2C - Red, Large", "price_minor": 100}],
+    }
+    rows = wc.to_csv_rows([product], OPTS)
+    assert rows[0]["Attribute 1 value(s)"] == "Red\\, Large"
+    assert rows[1]["Attribute 1 value(s)"] == "Red\\, Large"

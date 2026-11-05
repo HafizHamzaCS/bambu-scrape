@@ -93,6 +93,11 @@ def variant_options(product: dict[str, Any]) -> list[str]:
     return labels
 
 
+def _csv_list_item(value: str) -> str:
+    """WooCommerce's importer splits list fields on commas; escape literal ones."""
+    return value.replace(",", "\\,")
+
+
 def spec_table_html(spec_table: list[list[str]]) -> str:
     """Render the scraped specification rows as an HTML table."""
     if not spec_table:
@@ -150,7 +155,7 @@ def to_csv_rows(products: list[dict[str, Any]], opts: ExportOptions) -> list[dic
                 "Categories": CATEGORY_NAMES.get(p.get("category_key", ""), ""),
                 "Images": ", ".join(product_images(p, opts)),
                 "Attribute 1 name": ATTRIBUTE_NAME,
-                "Attribute 1 value(s)": " | ".join(labels),
+                "Attribute 1 value(s)": ", ".join(_csv_list_item(x) for x in labels),
                 "Attribute 1 visible": "1",
                 "Attribute 1 global": "0",
                 "Meta: _bambu_source_url": p.get("url") or "",
@@ -173,7 +178,7 @@ def to_csv_rows(products: list[dict[str, Any]], opts: ExportOptions) -> list[dic
                     "Images": v.get("image_url") or "",
                     "Parent": psku,
                     "Attribute 1 name": ATTRIBUTE_NAME,
-                    "Attribute 1 value(s)": label,
+                    "Attribute 1 value(s)": _csv_list_item(label),
                     "Attribute 1 global": "0",
                     "Meta: _bambu_source_url": p.get("url") or "",
                     "Meta: _bambu_source_price_eur_gross": _money(v.get("price_minor")),
