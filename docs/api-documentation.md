@@ -226,7 +226,27 @@ Retrieve normalized products and variant listings from the local SQLite database
 
 ---
 
-#### 5. Query Change Events (Diff Feed)
+#### 4b. WooCommerce Draft-Product Export
+Converts the latest scraped catalog into a WooCommerce import.
+
+- **Route:** `GET /export/woocommerce`
+- **Auth:** Required (`X-API-Key`)
+- **Query Parameters:**
+  - `category` *(optional)*: `printers` | `filaments` (default: both)
+  - `format` *(default `csv`)*: `csv` (WooCommerce product importer file) | `json` (REST v3 payloads)
+  - `include_prices` *(default `false`)*: fill `Regular price` from the Bambu EU price (VAT-inclusive)
+  - `sku_prefix` *(default empty)*: prefix added to every SKU
+  - `max_images` *(default `10`)*: images per product
+- **Rules:** products are exported as **drafts** (`Published = -1`); stock is never exported and prices are
+  blank unless `include_prices=true` (Merit is the master for stock and selling prices). The Bambu source
+  price is always stored as meta `_bambu_source_price_eur_gross`. Each product becomes one `variable` row
+  plus one `variation` row per Bambu variant (attribute `Option`, derived from the variant title).
+  Variation SKU = Bambu SKU id (with optional prefix); parent SKU = `BL-<handle>`.
+- **Import:** WooCommerce -> Products -> Import -> choose the downloaded CSV.
+
+---
+
+#### 5. Query Change Events (Diff Feed) *(planned, not implemented yet)*
 Fetch changes detected across scrape runs.
 
 - **Route:** `GET /changes`

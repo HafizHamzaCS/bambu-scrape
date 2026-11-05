@@ -7,10 +7,11 @@ from contextlib import asynccontextmanager
 from typing import Any
 
 from fastapi import BackgroundTasks, Depends, FastAPI, Header, HTTPException, Query, status
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, Response
 from pydantic import BaseModel
 
 import service
+import woocommerce
 from config import settings
 from models import (
     ERROR_INVALID_CATEGORY,
@@ -149,4 +150,28 @@ async def get_catalog(
     return _envelope(
         products[offset : offset + limit],
         {"total_count": len(products), "limit": limit, "offset": offset},
+    )
+
+
+@app.get("/export/woocommerce")
+async def export_woocommerce(
+    category: str | None = None,
+    fmt: str = Query(default="csv", alias="format", pattern="^(csv|json)$"),
+    include_prices: bool = False,
+    sku_prefix: str = "",
+    max_images: int = Query(default=10, ge=1, le=50),
+    _key: str = Depends(require_api_key),
+) -> Any:
+    """Export the latest scrape as a WooCommerce draft-product import (CSV or REST JSON)."""
+    if category is not None and category not in service.CATEGORIES:
+        return _error(400, ERROR_INVALID_CATEGORY, f"Category '{category}' is not supported in v1")
+    opts = woocommerce.ExportOptions(include_prices, sku_prefix, max_images)
+    products = service.load_catalog(category)
+    if fmt == "json":
+        items = woocommerce.to_rest_products(products, opts)
+        return _envelope(items, {"count": len(items)})
+    return Response(
+        content=woocommerce.render_csv(products, opts),
+        media_type="text/csv",
+        headers={"Content-Disposition": 'attachment; filename="bambu-woocommerce-import.csv"'},
     )
